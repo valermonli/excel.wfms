@@ -1,0 +1,11 @@
+1. webpack (import/export)
+  - babel
+  - scss
+  - eslint
+  - 2 modes
+    - dev (dev server, sourceMap, eslint, not-minified JS & CSS)
+    - prod (Minified code)
+
+2. git
+  - production
+  - development
